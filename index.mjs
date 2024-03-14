@@ -123,8 +123,8 @@ console.log(" ");
 console.log(`You will need ${gallonsNeeded75.toFixed(2)} gallons at 75mph to get to your destination in ${tripTime75.toFixed(2)} hours.`);
 console.log(`Will you make it with a budjet of ${totalBudget}? ${enoughBudget75}`);
 
-if (enoughBudget75){
-    console.log("You are within budget");
-}else{
-    console.log("You are not within budget");
-}
+// if (enoughBudget75){
+//     console.log("You are within budget");
+// }else{
+//     console.log("You are not within budget");
+// }
